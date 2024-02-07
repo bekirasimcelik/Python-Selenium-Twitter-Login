@@ -1,4 +1,4 @@
-# Twitter Login and NASA Visit
+# Twitter Login and Visit NASA Account
 
 This project contains a code to login to twitter with python selenium and visit NASA account (This project has nothing to do with Nasa's account. I was just interested in Space and Science so I wanted to point you there :). You can test this code using unittest. Also, the code is broken into several python files for understandability.
 
